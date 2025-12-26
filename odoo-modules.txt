@@ -1,0 +1,1 @@
+base,web,account,analytic,barcodes,calendar,contacts,hr,hr_timesheet,mail,payment,payment_paypal,portal,product,project,purchase,sale,spreadsheet,stock,uom
