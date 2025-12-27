@@ -1,1 +1,41 @@
 
+[submodule "oca-account-financial-tools"]
+	path = oca-account-financial-tools
+	url = ../oca-account-financial-tools.git
+	branch = 18.0
+[submodule "oca-bank-payment"]
+	path = oca-bank-payment
+	url = ../oca-bank-payment.git
+	branch = 18.0
+[submodule "oca-account-reconcile"]
+	path = oca-account-reconcile
+	url = ../oca-account-reconcile.git
+	branch = 18.0
+[submodule "oca_knowledge"]
+	path = oca_knowledge
+	url = ../oca_knowledge.git
+	branch = 18.0
+[submodule "oca-partner-contact"]
+	path = oca-partner-contact
+	url = ../oca-partner-contact.git
+	branch = 18.0
+[submodule "oca_web"]
+	path = oca_web
+	url = ../oca_web.git
+	branch = 18.0
+[submodule "oca-purchase-workflow"]
+	path = oca-purchase-workflow
+	url = ../oca-purchase-workflow.git
+	branch = 18.0
+[submodule "oca-social"]
+	path = oca-social
+	url = ../oca-social.git
+	branch = 18.0
+[submodule "odoo-tom-third-party-addons"]
+	path = odoo-tom-third-party-addons
+	url = ../odoo-tom-third-party-addons.git
+	branch = feature/18-migration
+[submodule "odoo-tom-jobcontrol"]
+	path = odoo-tom-jobcontrol
+	url = ../odoo-tom-jobcontrol.git
+	branch = feature/17-to-18-migration
