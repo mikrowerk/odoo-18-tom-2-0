@@ -39,3 +39,7 @@
 	path = odoo-tom-jobcontrol
 	url = ../odoo-tom-jobcontrol.git
 	branch = feature/17-to-18-migration
+[submodule "oca-credit-control"]
+	path = oca-credit-control
+	url = ../oca-credit-control.git
+	branch = 18.0
