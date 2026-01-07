@@ -43,3 +43,7 @@
 	path = oca-credit-control
 	url = ../oca-credit-control.git
 	branch = 18.0
+[submodule "oca-mail"]
+	path = oca-mail
+	url = ../oca-mail.git
+	branch = 18.0
