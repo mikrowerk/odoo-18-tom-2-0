@@ -9,4 +9,6 @@ Unidecode
 mikrowerk_edi_invoicing>=0.6.6
 google-genai
 thefuzz
+premailer
+
 
