@@ -1,7 +1,7 @@
 # Copyright Gammadata GmbH. All Rights Reserved.
 # SPDX-License-Identifier: APACHE-2.0
 
-ARG ODOO_18_BASE_IMAGE=ghcr.io/mikrowerk/tom-odoo-18-image:01edf4b
+ARG ODOO_18_BASE_IMAGE=ghcr.io/mikrowerk/tom-odoo-18-image:a2e67a6
 
 FROM ${ODOO_18_BASE_IMAGE}
 
