@@ -6,7 +6,7 @@
 [submodule "oca-bank-payment"]
 	path = oca-bank-payment
 	url = ../oca-bank-payment.git
-	branch = 18.0-pre-update
+	branch = 18.0-fix/button-not-found
 [submodule "oca-account-reconcile"]
 	path = oca-account-reconcile
 	url = ../oca-account-reconcile.git
