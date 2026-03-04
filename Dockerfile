@@ -10,10 +10,10 @@ ARG ADDON_PATH="/mnt/extra-addons"
 # Only delta updates
 
 # copy OCA add-ons
-#COPY oca-account-financial-tools ${ADDON_PATH}
-#COPY oca-account-reconcile ${ADDON_PATH}
-#COPY oca-bank-payment ${ADDON_PATH}
-#COPY oca-credit-control ${ADDON_PATH}
+COPY oca-account-financial-tools ${ADDON_PATH}
+COPY oca-account-reconcile ${ADDON_PATH}
+COPY oca-bank-payment ${ADDON_PATH}
+COPY oca-credit-control ${ADDON_PATH}
 #COPY oca-partner-contact ${ADDON_PATH}
 #COPY oca_knowledge/document_url ${ADDON_PATH}/document_url
 #COPY oca_web/web_remember_tree_column_width ${ADDON_PATH}/web_remember_tree_column_width
